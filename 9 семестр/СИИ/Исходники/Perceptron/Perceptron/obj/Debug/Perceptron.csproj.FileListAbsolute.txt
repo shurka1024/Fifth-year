@@ -1,0 +1,10 @@
+D:\Учеба (Саша)\Fifth-year\9 семестр\СИИ\Исходники\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+D:\Учеба (Саша)\Fifth-year\9 семестр\СИИ\Исходники\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+D:\Учеба (Саша)\Fifth-year\9 семестр\СИИ\Исходники\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+D:\Учеба (Саша)\Fifth-year\9 семестр\СИИ\Исходники\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+D:\Учеба (Саша)\Fifth-year\9 семестр\СИИ\Исходники\Perceptron\Perceptron\obj\Debug\Perceptron.Form1.resources
+D:\Учеба (Саша)\Fifth-year\9 семестр\СИИ\Исходники\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+D:\Учеба (Саша)\Fifth-year\9 семестр\СИИ\Исходники\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.Cache
+D:\Учеба (Саша)\Fifth-year\9 семестр\СИИ\Исходники\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+D:\Учеба (Саша)\Fifth-year\9 семестр\СИИ\Исходники\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+D:\Учеба (Саша)\Fifth-year\9 семестр\СИИ\Исходники\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
